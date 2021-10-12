@@ -1,0 +1,5 @@
+printer-*.cfg
+.fluidd*
+.variables.stb
+imgs/*
+input_shaper/*
