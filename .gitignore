@@ -1,4 +1,5 @@
 printer-*.cfg
+telegram*
 .fluidd*
 .variables.stb
 imgs/*
